@@ -1,0 +1,1 @@
+This folder contains three pipelines: feature pipeline, training pipeline and batch inference pipeline. Training pipeline is run on-demand and the feature and batch inference pipelines are run on a cron schedule (set to once per day).

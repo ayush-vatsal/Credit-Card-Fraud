@@ -1,5 +1,5 @@
-from helper import synthetic_data
 from helper import features
+from helper import synthetic_data
 from unittest import TestCase
 import pytest
 from contextlib import nullcontext as does_not_raise
